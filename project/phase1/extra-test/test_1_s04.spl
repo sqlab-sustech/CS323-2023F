@@ -1,0 +1,61 @@
+int fn1() {
+      int a, b = 1;
+  a = 10;
+    int i = 0;
+    int j = 142414
+}
+
+int fn2() {
+    int a = 1
+    int b = 2;
+    int c = 3;
+    int d = 4
+    int e = 5;
+    return a + b + c + d + e;
+}
+
+int fn3(char d {
+    return 1;
+}
+
+char fn4(int f) {
+    f = f + fn1(;
+    return 'a'
+}
+
+
+float fn5() {
+    int j = 1;
+    int k =2 ;
+    while (j != k) {
+        int i = 1}
+    return 1.0
+}
+
+float fn6() {
+    int j = 1;
+    int k =2 ;
+    while (j != k) 
+    {
+        float s =213.21;
+    }
+    return 1.0
+}
+
+float fn7 () {
+    if () 
+int i = 1;
+}
+
+
+struct my_struct1 {
+    int i;
+    char _c
+    float f;
+    int code
+};
+
+
+struct my_struct2 {
+    int i;}
+

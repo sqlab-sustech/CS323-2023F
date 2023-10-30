@@ -1,0 +1,14 @@
+int test_2_r03()
+{
+  int res = 1;
+  int 3b = 3 + , C= a*, d = 5/;
+  if (b != c){
+    a = 0;
+  }
+  while (n > 0)
+  {
+    res = res * n;
+    n = n - 1;
+  }
+  return res;
+}

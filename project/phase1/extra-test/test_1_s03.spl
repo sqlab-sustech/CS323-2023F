@@ -1,0 +1,20 @@
+int test() 
+{
+    char b='\x90';
+    char c='\xr0';
+    int 2_A=3;
+    int a = 0xff;
+    int e = 0x023456;
+    int f = 0x0;
+    int g = 0023;
+    float d = 1.234;
+    float h = 000.234;
+    while(a < f{
+        f = 2* a;
+    }
+    
+    if (b != 'a'{
+        return 3;
+    }
+    return d;
+}

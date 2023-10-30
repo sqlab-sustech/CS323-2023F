@@ -1,0 +1,28 @@
+a,b,c;
+int d,;
+
+int foo1(a, int b)
+{
+  int c = a + b;
+  return c;
+}
+
+int foo2(int a, int)
+{
+  int c = a + b;
+  return c;
+}
+
+int foo3(int a,)
+{
+  int c = a + b;
+  return c;
+}
+
+int test_1_r05(int n,int q)
+{
+  foo1(1,2);
+  foo2(1,02);
+  foo3(1,);
+  obj.=3;
+}

@@ -1,0 +1,31 @@
+int add(int a,int b){
+    return a+b;
+}
+float add(int a,float b){
+    return a+b;
+}
+
+int main(){
+    int a=100;
+    int b=100;
+    float c=0.01;
+    int d=add(a,b);
+    if (d>c){
+        float e=add(a,c);
+    }
+    while(d>a){
+        if(e>c || a==b){
+            if(c>e || (a>10)){
+               a=0;
+               a=b*c;
+               b=c-a;
+               a=b/d;
+            }else{
+                 if(e>=c && !(c>a)){
+                    e=0.01;
+                 }
+            }
+        }
+    }
+    return 0;
+}

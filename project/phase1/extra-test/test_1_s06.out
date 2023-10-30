@@ -1,0 +1,60 @@
+Program (1)
+  ExtDefList (1)
+    ExtDef (1)
+      Specifier (1)
+        TYPE: int
+      FunDec (1)
+        ID: print
+        LP
+        VarList (1)
+          ParamDec (1)
+            Specifier (1)
+              TYPE: int
+            VarDec (1)
+              ID: a
+        RP
+      CompSt (1)
+        LC
+        StmtList (2)
+          Stmt (2)
+            WHILE
+            LP
+            Exp (2)
+              INT: 1
+            RP
+            Stmt (2)
+              CompSt (2)
+                LC
+                RC
+        RC
+    ExtDefList (4)
+      ExtDef (4)
+        Specifier (4)
+          TYPE: int
+        FunDec (4)
+          ID: test_12110644_3
+          LP
+          RP
+        CompSt (4)
+          LC
+          StmtList (5)
+            Stmt (5)
+              Exp (5)
+                ID: print
+                LP
+                Args (5)
+                  Exp (5)
+                    ID: hello
+                RP
+              SEMI
+            StmtList (6)
+              Stmt (6)
+                Exp (6)
+                  ID: print
+                  LP
+                  Args (6)
+                    Exp (6)
+                      CHAR: 'h'
+                  RP
+                SEMI
+          RC

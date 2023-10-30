@@ -1,0 +1,7 @@
+int test_2_r04 (){
+    int a = 5;
+    a = a [+2;
+    while(1){
+        max( a , a + 2;
+    
+    }

@@ -1,0 +1,4 @@
+Error type A at Line 4: unknown lexeme 3b
+Error type B at Line 4: Missing Exp after +
+Error type B at Line 4: Missing Exp after *
+Error type B at Line 4: Missing Exp after /

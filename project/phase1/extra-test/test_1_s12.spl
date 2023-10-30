@@ -1,0 +1,29 @@
+struct my_struct
+{
+  int code
+  int a;
+  char data
+  char b;
+}
+int test(int a,int B
+{
+    struct my_struct c
+    struct my_struct d;
+    int e=(2+3/(2-2)*2;
+    int f=(2+3/(2-2))*2;
+ 
+    if(a>=b
+    {
+        a=1+1;
+        b=1+1;
+    }
+    if(a>=b)
+    {
+        a=1+1
+        b=1+1;
+    }
+    
+}
+int test(){
+    int a=0;
+

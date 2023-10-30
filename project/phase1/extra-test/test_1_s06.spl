@@ -1,0 +1,7 @@
+int print(int a){
+    while(1){}
+}
+int test_12110644_3(){
+    print(hello);
+    print('h');
+}

@@ -1,0 +1,10 @@
+int test_1_r09()
+{
+  int m = 1;
+  float n = 2.2;
+  int x[5, y[10];
+  x[m] = ;
+  y[n = 8;
+  =2;
+  return x[y[2]];
+}

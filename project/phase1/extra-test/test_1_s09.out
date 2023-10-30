@@ -1,0 +1,4 @@
+Error type B at Line 3: Missing opening parenthesis '('
+Error type A at Line 4: Unknown characters '1_digit'
+Error type B at Line 5: Missing opening parenthesis '('
+Error type A at Line 9: Unknown characters '1_digit'

@@ -1,0 +1,12 @@
+int reverse(int x) {
+    int rev = 0;
+    while x != 0) {
+        int 1_digit = x / 10;
+        if rev < 0 / 10 || rev > 1000000 / 10) {
+            return 0;
+        }
+        x = x / 10;
+        rev = rev * 10 + 1_digit;
+    }
+    return rev;
+}

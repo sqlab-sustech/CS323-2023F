@@ -1,0 +1,15 @@
+float test3(int a)
+{
+  if (a < 1)
+  {
+    return 'T';
+  }
+  else
+  {
+    return 'F';
+  }
+  else
+  {
+    return 'A';
+  }
+}
