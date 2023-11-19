@@ -1,0 +1,21 @@
+int test1()
+{
+  return 1;
+}
+
+float test2()
+{
+  return 1.0;
+}
+
+int test_2_r08(int a, int b)
+{
+  if (a > b)
+  {
+    return test1();
+  }
+  else
+  {
+    return test2();
+  }
+}

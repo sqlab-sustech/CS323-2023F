@@ -1,0 +1,2 @@
+Error type 3 at Line 4: variable "weight" is redefined in the same scope
+Error type 3 at Line 10: variable "age" is redefined in the same scope

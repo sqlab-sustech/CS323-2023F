@@ -1,0 +1,16 @@
+int sum(int x, int y)
+{
+  int res = x + y;
+  return res;
+}
+float sum(int x, int y)
+{
+  int res = x + y;
+  return res;
+}
+int test_2_r04()
+{
+  int a1, a2;
+  int b = sum(a, b);
+  return 0;
+}

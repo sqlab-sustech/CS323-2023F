@@ -1,0 +1,4 @@
+Error type 7 at Line 11: binary operation on non-nunmber varibles
+Error type 7 at Line 11: unmatching operands
+Error type 5 at Line 11: unmatching type on both sides of assignment 
+Error type 5 at Line 12: unmatching type on both sides of assignment

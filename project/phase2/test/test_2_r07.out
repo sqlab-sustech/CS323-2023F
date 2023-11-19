@@ -1,0 +1,5 @@
+Error type 7 at Line 11: binary operation on non-number variables 
+Error type 7 at Line 11: unmatching operand
+Error type 5 at Line 11: unmatching types on both sides of assignment
+Error type 7 at Line 12: unmatching operand
+Error type 5 at Line 12: unmatching types on both sides of assignment

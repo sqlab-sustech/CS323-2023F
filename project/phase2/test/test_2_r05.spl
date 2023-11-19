@@ -1,0 +1,14 @@
+struct Apple
+{
+  int weight;
+  float round;
+};
+int test_2_r05()
+{
+  int w1;
+  float w2 = 1.05;
+  struct Apple aa;
+  aa.weight = w1 + w2;
+  aa.round = 'c';
+  return 0;
+}

@@ -1,0 +1,13 @@
+struct test
+{
+  int a;
+  float b;
+};
+int test_2_r14()
+{
+  struct test t;
+  t.a = 1;
+  t.b = 20.0;
+  t.c = t.a;
+  return 0;
+}

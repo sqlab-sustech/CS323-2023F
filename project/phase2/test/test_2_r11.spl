@@ -1,0 +1,7 @@
+int test_2_r11()
+{
+  int abc;
+  int a[1][5];
+  a[0][1] = abc();
+  return a[abc][abc];
+}

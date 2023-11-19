@@ -1,0 +1,12 @@
+struct Student
+{
+    int weight;
+    float weight;
+};
+int test_2_r07()
+{
+    struct Student amy;
+    int age;
+    float age;
+    return 0;
+}
