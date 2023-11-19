@@ -5,7 +5,7 @@ int sum(int x, int y)
 }
 int test_2_r01()
 {
-  int a1, a2;
+  int a1 = 1;
   int b = a1 + a;
   int b = sum(a, b);
   return 0;
