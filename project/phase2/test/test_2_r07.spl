@@ -6,7 +6,7 @@ struct Apple
 int test_2_r05()
 {
   int w;
-  float r=2.5;
+  float r = 2.5;
   struct Apple aa;
   aa.weight = w + 1.05;
   aa.round = r + aa;
