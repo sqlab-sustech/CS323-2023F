@@ -11,6 +11,6 @@ float sum(int x, int y)
 int test_2_r04()
 {
   int a1, a2;
-  int b = sum(a, b);
+  int b = sum(a1, a2);
   return 0;
 }
