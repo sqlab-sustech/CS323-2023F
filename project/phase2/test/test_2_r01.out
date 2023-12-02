@@ -1,4 +1,4 @@
 Error type 1 at Line 3: "z" is used without a definition
 Error type 1 at Line 9: "a" is used without a definition
 Error type 1 at Line 10: "a" is used without a definition
-Error type 1 at Line 10: "b" is redefined
+Error type 3 at Line 10: "b" is redefined
