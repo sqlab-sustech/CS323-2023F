@@ -1,0 +1,5 @@
+Error type 7 at Line 9: unmatching operand
+Error type 5 at Line 9: unmatching type on both sides of assignment 
+Error type 10 at line 12: indexing on non-array variable
+Error type 7 at Line 12: unmatching operand
+Error type 5 at Line 12: unmatching type on both sides of assignment 

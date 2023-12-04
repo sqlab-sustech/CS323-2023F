@@ -1,0 +1,4 @@
+Error type 1 at Line 3: "b" is used without a definition
+Error type 2 at Line 6: "function" is invoked without a definition
+Error type 3 at Line 10: variable "x" is redefined in the same scope
+Error type 4 at Line 20: "redefined_function" is redefined

@@ -1,0 +1,9 @@
+Error type 9 at Line 9: invalid argument type at 1, except float, got int
+Error type 9 at Line 9: invalid argument type at 2, except char, got int
+Error type 9 at Line 10: invalid argument type at 0, except int, got float
+Error type 9 at Line 10: invalid argument type at 2, except char, got float
+Error type 9 at Line 11: invalid argument type at 0, except int, got char
+Error type 9 at Line 11: invalid argument type at 1, except float, got char
+Error type 9 at Line 12: invalid argument number, except 3, got 6
+Error type 9 at Line 13: invalid argument number, except 3, got 6
+Error type 9 at Line 14: invalid argument number, except 3, got 1

@@ -1,0 +1,4 @@
+Error type 12 at line 5: indexing by non-integer
+Error type 3 at line 6: a variable is redifined in the same scope
+Error type 5 at line 7: unmatching type on both sides of assignment
+Error type 6 at line 9: left side in assignment is rvalue

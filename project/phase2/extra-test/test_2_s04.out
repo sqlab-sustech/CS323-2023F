@@ -1,0 +1,4 @@
+Error type 5 at Line 17: unmatching types appear at both sides of the assignment operator
+Error type 9 at Line 20: invalid argument number for function "add"
+Error type 12 at Line 24: indexing by non-integer
+Error type 14 at Line 27: accessing an undefined structure member: add

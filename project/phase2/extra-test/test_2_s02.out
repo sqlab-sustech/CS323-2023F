@@ -1,0 +1,4 @@
+Error type 10 at line 4: indexing on non-array variable
+Error type 5 at line 4: unmatching type on both sides of assignment 
+Error type 2 at Line 5: "func" is invoked without a definition 
+Error type 5 at Line 5: unmatching type on both sides of assignment

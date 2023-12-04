@@ -1,0 +1,22 @@
+int test_16()
+{
+    int c = 6;
+    return c;
+}
+float aa()
+{
+    int a = 2;
+    int f = 3;
+    int h = 4;
+    if (a < f && h > f) return f;
+    else if ( a == f || h > a) return 5.0;
+    else return a;
+}
+int test_2_s01() 
+{
+    float aaa[5];
+    int b = 2;
+    aaa[test_16()] = 2.0;
+    aaa[aa()] = 2.0;
+    return b;
+}

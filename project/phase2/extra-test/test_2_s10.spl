@@ -1,0 +1,27 @@
+struct a
+{
+    int x;
+    char y;
+};
+struct b
+{
+    struct a z;
+};
+struct c
+{
+    struct b w;
+};
+int test_2_s10(int xx, char yy){
+    int xxx;
+    char yyy;
+    struct a aa;
+    struct b bb;
+    struct c cc;
+    aa.x = xx;
+    aa.y = yy;
+    bb.z = aa;
+    cc.w = bb;
+    xxx = cc.w.z.x;
+    yyy = cc.w.z.y;
+    return xxx==xx&&yyy;
+}

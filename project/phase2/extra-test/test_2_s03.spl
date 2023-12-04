@@ -1,0 +1,22 @@
+int test_2_s03() {
+    // Error Type 1: a variable is used without a definition
+    int a = b + 123;
+
+    // Error Type 2: a function is invoked without a definition
+    int i = function();
+
+    // Error Type 3: a variable is redefined in the same scope
+    int x = 0;
+    int x = 1;
+
+    return 0;
+}
+
+// Error Type 4: a function is redefined
+int redefined_function() {
+    return 123;
+}
+
+int redefined_function() {
+    return 456;
+}

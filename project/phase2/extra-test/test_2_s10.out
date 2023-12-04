@@ -1,0 +1,2 @@
+Error type 7 at Line 26: unmatching operands
+Error type 8 at line 26: return value mismatch (can be ignored: boolean can be seen as int)

@@ -1,0 +1,17 @@
+int test(int a,float b,char c){
+  return 0;
+}
+int test_2_s06(){
+    int d=10;
+    float e=11.0;
+    char f='k';
+    int g=test(d,e,f);
+    int g1=test(d,d,d);
+    int g2=test(e,e,e);
+    int g3=test(f,f,f);
+    int g4=test(d,d,d,d,d,d);
+    int g5=test(d,e,f,d,e,f);
+    int g6=test(f);
+
+    return 0;
+}

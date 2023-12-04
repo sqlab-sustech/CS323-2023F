@@ -1,0 +1,3 @@
+int test_2_s08(int a, int a, int a, int b, float b, char b){
+    return 0;
+}

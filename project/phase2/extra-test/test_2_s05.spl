@@ -1,0 +1,14 @@
+struct rabbit{
+    int a;
+    char c;
+};
+int test_2_s05(){
+    struct rabbit rrr;
+    int ra = rrr.a;
+    char rc = rrr.c;
+    int error = ra && rc;
+    error = error + 1;
+    rrr = rrr + 1;
+    error = ra[1]+1;
+    return 0;
+}
