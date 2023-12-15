@@ -1,0 +1,29 @@
+int calculateBinomialCoefficient(int row, int col) {
+    int coefficient = 1;
+    int i = 0;
+
+    if (row < col) {
+        return 0;
+    }
+    
+    if (col > row - col) {
+        col = row - col;
+    }
+    
+    while (i < col) {
+        coefficient = coefficient * (row - i);
+        coefficient = coefficient / (i + 1);
+        i=i+1;
+    }
+    
+    return coefficient;
+}
+
+int main() {
+    int row, col,coefficient;
+    row = read();
+    col = read();
+    coefficient = calculateBinomialCoefficient(row, col);
+    write(coefficient);
+    return 0;
+}

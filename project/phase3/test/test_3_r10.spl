@@ -1,0 +1,15 @@
+int factorial(int n) {
+    if (n == 0) {
+        return 1;
+    } else {
+        return n * factorial(n - 1);
+    }
+}
+
+int main() {
+    int num, result;
+    num = read();
+    result = factorial(num);
+    write(result);
+    return 0;
+}

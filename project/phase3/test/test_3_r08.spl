@@ -1,0 +1,22 @@
+int calculateTax(int income) {
+    int tax = 0;
+
+    if (income <= 5000) {
+        return 0;
+    } else if (income <= 10000) {
+        tax = (income - 5000) / 20;
+    } else if (income <= 50000) {
+        tax = 250 + (income - 10000) / 10;
+    } else {
+        tax = 250 + 4000 + (income - 50000) / 5;
+    }
+    return tax;
+}
+
+int main() {
+    int income;
+    income = read();
+    real_income = income - calculateTax(income);
+    write(real_income);
+    return 0;
+}
